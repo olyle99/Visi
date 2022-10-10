@@ -1,6 +1,6 @@
 #EXTINF:0, TRING COMEDY (SUMMERTIME)
-http://130.0.24.6:2831/udp/239.101.101.5:2345
+http://0@dl.dropboxusercontent.com/s/j7ypmwhjibhq5oy/offline.mp4
 #EXTINF:0, TRING 3+
-http://130.0.24.6:2831/udp/239.101.101.6:2345
+http://1@dl.dropboxusercontent.com/s/j7ypmwhjibhq5oy/offline.mp4
 #EXTINF:0, TRING LIVING HD
-http://130.0.24.6:2831/udp/239.101.41.11:2345
+http://2@dl.dropboxusercontent.com/s/j7ypmwhjibhq5oy/offline.mp4
