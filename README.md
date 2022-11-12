@@ -254,6 +254,14 @@ http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/295514.ts
 http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/290537.ts
 #EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD 
 http://iptvtree.net:8080/live/cipo/R3vwiPGU8YAb4r57ed8j/290538.ts
+#EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVER SP♡RT 1HD 
+http://185.89.156.111:8000/play/a02j
+#EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVER SP♡RT 2HD
+http://185.89.156.111:8000/play/a02k
+#EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/Rqz8wbO.png",[$]OVER SP♡RT 3HD 
+http://185.89.156.111:8000/play/a02l
+#EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVER SP♡RT 4HD 
+http://185.89.156.111:8000/play/a02m
 #EXTINF:0 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/YMM0Et3.png",[$]RTSH SPORT HD 
 http://130.0.24.6:2831/udp/239.101.43.24:2345
 #EXTINF:-1 group-title="[🇦🇱📺]SPORTE" tvg-logo="https://i.imgur.com/e8cZUA9.png",[$]RAI SPORT +HD
